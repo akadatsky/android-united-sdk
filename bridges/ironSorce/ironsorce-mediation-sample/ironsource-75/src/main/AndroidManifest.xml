@@ -21,6 +21,7 @@
         </activity>
         <activity android:name=".InterstitialActivity"/>
         <activity android:name=".RewardedVideoActivity"/>
+        <activity android:name=".BannerActivity"/>
     </application>
 
 </manifest>
